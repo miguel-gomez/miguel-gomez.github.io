@@ -20,9 +20,6 @@ My CV includes personal information so it is not available online, but I will ha
 ### About this site
 
 This website is built with [Jekyll](http://jekyllrb.com/) and hosted at [GitHub Pages](https://pages.github.com).
-I am using a customized [Millennial](https://github.com/LeNPaul/Millennial) theme, developed by [Paul Le](https://github.com/LeNPaul) under a MIT [license](https://miguel-gomez.github.io/LICENSE.md). Menu icons by [Font Awesome](http://fontawesome.io/).
+I am using a customized [Millennial](https://github.com/LeNPaul/Millennial) theme, developed by [Paul Le](https://github.com/LeNPaul) under a [MIT license](https://miguel-gomez.github.io/LICENSE.md). Menu icons by [Font Awesome](http://fontawesome.io/).
 
-Site contents are released under a [CC BY-SA 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/), unless specified otherwise.
-
-Markdown files for each blog post are available [here](https://github.com/miguel-gomez/miguel-gomez.github.io/tree/master/_posts). 
-
+Site contents are released under a [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/), unless specified otherwise.
