@@ -46,6 +46,10 @@ author:
   email:               miguel.gomez.contact@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
+  social:
+    github:            https://github.com/miguel-gomez
+    email:             miguel.gomez.contact@gmail.com
+    twitter:           migo_gomez
 
 # Add links to the sidebar.
 menu:
