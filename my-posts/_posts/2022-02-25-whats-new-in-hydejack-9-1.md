@@ -1,10 +1,21 @@
 ---
 layout: post
-title: Example Content II
+title: Hydejack, Stripe-ified
+image: /assets/img/blog/jj-ying.jpg
+accent_image: 
+  background: url('/assets/img/blog/jj-ying.jpg') center/cover
+  overlay: false
+accent_color: '#ccc'
+theme_color: '#ccc'
 description: >
-  A page showing how regular markdown content is styled in Hydejack.
-image: /assets/img/blog/example-content-ii.jpg
-sitemap: false
+  Version 9.1 provides minor design changes, new features, and closes multiple issues.
+invert_sidebar: true
+---
+
+# Last example!
+
+Last example!
+
 ---
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
