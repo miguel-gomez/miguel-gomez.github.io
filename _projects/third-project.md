@@ -37,6 +37,13 @@ glimpse(mtcars)
 ```
 
 A code block with syntax h, tildes, a la rouge:
+~~~r
+library(dplyr)
+
+glimpse(mtcars)
+~~~
+
+A code block with syntax h, tildes, a la rouge:
 ~~~js
 // file: "code-block.js"
 // Example can be run directly in your JavaScript console
