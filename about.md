@@ -3,9 +3,9 @@ layout: about
 title:  About
 ---
   
-  The site is currently under construction.
+The site is currently under construction.  
 
-Sorry!
+Sorry!  
 
 <!--author-->
   
