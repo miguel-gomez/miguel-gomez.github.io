@@ -9,12 +9,9 @@ Feel free to check the [projects](https://miguel-gomez.github.io/projects/) I am
 
 If you are interested in any of the above, it will be a pleasure to [talk](mailto:miguel.gomez.contact@gmail.com) about it!  
 
-### About this blog  
+### About this site
 
-This website is built with [Jekyll]() and uses the [Hydejack](https://hydejack.com/) theme by [Florian Klampfer](https://qwtel.com/), which I have customised to suit my needs and I am hosting at [Github Pages](https://pages.github.com/). Sidebar image by [Johny Goerend](https://linktr.ee/johnygoerend).
+This website is built with [Jekyll](https://jekyllrb.com/) and uses the [Hydejack](https://hydejack.com/) theme by [Florian Klampfer](https://qwtel.com/), which I have customised to suit my needs and I am hosting at [Github Pages](https://pages.github.com/). Sidebar image by [Johny Goerend](https://linktr.ee/johnygoerend).
 
 Here are some details about [how the blog is set up]() and the corresponding [licenses](https://miguel-gomez.github.io/NOTICE/).
 
-
-<!--author-->
-  
